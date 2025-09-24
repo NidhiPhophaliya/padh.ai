@@ -53,7 +53,7 @@ export default function SignupPage() {
         {/* Right side - Signup Form */}
         <div className="w-full md:w-1/2">
           <h1 className="text-3xl font-bold text-center mb-8 text-purple-700">
-            Join Verb.AI!
+            Join PadhAI!
           </h1>
           
           <form onSubmit={handleSubmit} className="space-y-6">

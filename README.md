@@ -1,5 +1,5 @@
-# Verb.AI
-**Verb.AI** is a personalized learning platform designed to help individuals with **verbal strengths and non-verbal deficits** leverage their cognitive profiles for effective learning. By scaffolding spatial and non-verbal tasks through verbal strategies, Verb.AI provides a tailored educational experience that adapts to each user's unique needs.
+# PadhAI
+**PadhAI** is a personalized learning platform designed to help individuals with **verbal strengths and non-verbal deficits** leverage their cognitive profiles for effective learning. By scaffolding spatial and non-verbal tasks through verbal strategies, PadhAI provides a tailored educational experience that adapts to each user's unique needs.
 ---
 
 ## AI Hackathon Prompt
@@ -113,7 +113,7 @@
 
 ## Future Works
 
-Verb.AI is an evolving platform, and we have exciting plans to enhance its capabilities to better serve users with verbal strengths and non-verbal deficits. Here’s what’s next:
+PadhAI is an evolving platform, and we have exciting plans to enhance its capabilities to better serve users with verbal strengths and non-verbal deficits. Here’s what’s next:
 
 ### 1. **Enhanced Visual and Animated Assistance**
    - **Animated Scaffolding**: Introduce animations and visual aids to help users with non-verbal deficits better understand spatial and abstract concepts. For example:
