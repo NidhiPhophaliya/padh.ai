@@ -69,7 +69,7 @@
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/verb-ai.git
+   git clone https://github.com/your-repo/padh.ai.git
    cd verb-ai
    ```
 2. **Set Up Backend**:
